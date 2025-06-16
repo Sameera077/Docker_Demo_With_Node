@@ -4,7 +4,7 @@ This is a simple Node.js + Express application containerized using Docker. It de
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Node.js**
 - **Express.js**
@@ -12,11 +12,11 @@ This is a simple Node.js + Express application containerized using Docker. It de
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow the steps below to run this app on your local machine using Docker.
 
-### 🔁 Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Sameera077/Docker_Demo_With_Node.git
